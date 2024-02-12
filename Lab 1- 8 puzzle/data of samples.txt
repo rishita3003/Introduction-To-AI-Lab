@@ -1,0 +1,146 @@
+1.
+The number of nodes removed from the frontier are: 32300
+The number of steps to reach the solution are: 27
+The time taken by hamming distance heuristic is: 1461447 microseconds.
+
+The number of nodes removed from the frontier are: 2878
+The number of steps to reach the solution are: 27
+The time taken by manhattan distance heuristic is: 142972 microseconds.
+
+The number of nodes removed from the frontier are: 1288
+The number of steps to reach the solution are: 27
+The time taken by linear conflict heuristic is: 70399 microseconds.
+
+2.
+The number of nodes removed from the frontier are: 5517
+The number of steps to reach the solution are: 22
+The time taken by hamming distance heuristic is: 260754 microseconds.
+
+The number of nodes removed from the frontier are: 369
+The number of steps to reach the solution are: 22
+The time taken by manhattan distance heuristic is: 47995 microseconds.
+
+The number of nodes removed from the frontier are: 386
+The number of steps to reach the solution are: 22
+The time taken by linear conflict heuristic is: 40107 microseconds
+
+3.
+The number of nodes removed from the frontier are: 14659
+The number of steps to reach the solution are: 25
+The time taken by hamming distance heuristic is: 604978 microseconds.
+
+The number of nodes removed from the frontier are: 677
+The number of steps to reach the solution are: 25
+The time taken by manhattan distance heuristic is: 36282 microseconds.
+
+The number of nodes removed from the frontier are: 591
+The number of steps to reach the solution are: 25
+The time taken by linear conflict heuristic is: 34932 microseconds.
+
+4.
+The number of nodes removed from the frontier are: 12895
+The number of steps to reach the solution are: 25
+The time taken by hamming distance heuristic is: 547878 microseconds.
+
+The number of nodes removed from the frontier are: 1193
+The number of steps to reach the solution are: 25
+The time taken by manhattan distance heuristic is: 66072 microseconds.
+
+The number of nodes removed from the frontier are: 398
+The number of steps to reach the solution are: 25
+The time taken by linear conflict heuristic is: 14524 microseconds.
+
+5.
+The number of nodes removed from the frontier are: 2915
+The number of steps to reach the solution are: 21
+The time taken by hamming distance heuristic is: 165552 microseconds.
+
+The number of nodes removed from the frontier are: 509
+The number of steps to reach the solution are: 21
+The time taken by manhattan distance heuristic is: 25902 microseconds.
+
+The number of nodes removed from the frontier are: 298
+The number of steps to reach the solution are: 21
+The time taken by linear conflict heuristic is: 29868 microseconds
+
+6.
+The number of nodes removed from the frontier are: 2220
+The number of steps to reach the solution are: 20
+The time taken by hamming distance heuristic is: 100754 microseconds.
+
+The number of nodes removed from the frontier are: 641
+The number of steps to reach the solution are: 22
+The time taken by manhattan distance heuristic is: 28076 microseconds.
+
+The number of nodes removed from the frontier are: 313
+The number of steps to reach the solution are: 22
+The time taken by linear conflict heuristic is: 12180 microseconds.
+
+7.
+The number of nodes removed from the frontier are: 2362
+The number of steps to reach the solution are: 21
+The time taken by hamming distance heuristic is: 95712 microseconds.
+
+The number of nodes removed from the frontier are: 80
+The number of steps to reach the solution are: 21
+The time taken by manhattan distance heuristic is: 6803 microseconds.
+
+The number of nodes removed from the frontier are: 55
+The number of steps to reach the solution are: 21
+The time taken by linear conflict heuristic is: 3336 microseconds.
+
+8.
+The number of nodes removed from the frontier are: 13709
+The number of steps to reach the solution are: 25
+The time taken by hamming distance heuristic is: 3450833 microseconds.
+
+The number of nodes removed from the frontier are: 1562
+The number of steps to reach the solution are: 25
+The time taken by manhattan distance heuristic is: 138815 microseconds.
+
+The number of nodes removed from the frontier are: 892
+The number of steps to reach the solution are: 25
+The time taken by linear conflict heuristic is: 33153 microseconds.
+
+9.
+The number of nodes removed from the frontier are: 7114
+The number of steps to reach the solution are: 23
+The time taken by hamming distance heuristic is: 324149 microseconds.
+
+The number of nodes removed from the frontier are: 420
+The number of steps to reach the solution are: 23
+The time taken by manhattan distance heuristic is: 14911 microseconds.
+
+The number of nodes removed from the frontier are: 248
+The number of steps to reach the solution are: 23
+The time taken by linear conflict heuristic is: 9503 microseconds.
+
+10.
+The number of nodes removed from the frontier are: 568
+The number of steps to reach the solution are: 17
+The time taken by hamming distance heuristic is: 21163 microseconds.
+
+The number of nodes removed from the frontier are: 82
+The number of steps to reach the solution are: 17
+The time taken by manhattan distance heuristic is: 3020 microseconds.
+
+The number of nodes removed from the frontier are: 79
+The number of steps to reach the solution are: 17
+The time taken by linear conflict heuristic is: 3218 microseconds.
+
+
+
+
+
+
+
+
+
+
+
+
+
+####  9425 841 454 nodes
+
+#### 0.703322 0.0510848 0.075122
+
